@@ -11,4 +11,10 @@ fun candy-bar like keyboard
 - vial support
 
 ## materials
-- 
+- 12x mx style switches
+- 12x 1n4148 diodes
+- rp2040-zero (pcb is specifically designed for this microcontroller)
+- 8x m2x6 screws
+- (optional) bumpons/feet
+
+# Album
