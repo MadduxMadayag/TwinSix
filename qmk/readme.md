@@ -5,8 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Maddux Madayag](https://github.com/MadduxMadayag)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: RP2040
+* Hardware Availability: [Amazon](https://a.co/d/33I0HkA)
 
 Make example for this keyboard (after setting up your build environment):
 
