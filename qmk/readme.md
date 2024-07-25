@@ -3,7 +3,7 @@
 ![handwired/twinsix](https://i.imgur.com/xwhjYDE.jpg)
 
 * Keyboard Maintainer: [Maddux Madayag](https://github.com/MadduxMadayag)
-* Hardware Supported: RP2040
+* Hardware Supported: RP2040-Zero
 * Hardware Availability: [Amazon](https://a.co/d/33I0HkA)
 
 Make example for this keyboard (after setting up your build environment):
