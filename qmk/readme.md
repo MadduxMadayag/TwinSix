@@ -1,6 +1,6 @@
 # handwired/twinsix
 
-![handwired/twinsix](https://imgur.com/a/nLkNMkS)
+![handwired/twinsix](https://i.imgur.com/xwhjYDE.jpg)
 
 * Keyboard Maintainer: [Maddux Madayag](https://github.com/MadduxMadayag)
 * Hardware Supported: RP2040
