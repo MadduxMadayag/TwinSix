@@ -17,4 +17,7 @@ fun candy-bar like keyboard
 - 8x m2x6 screws
 - (optional) bumpons/feet
 
+### flashing
+- 
+
 # Album
